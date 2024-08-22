@@ -25,6 +25,11 @@ used for econ
 # PERCHANG
 Calculates percent change between two numbers
 
+# PNTCHANG
+second in amazingness only to trig program
+swaps coordinates between rectangular and polar systems
+must be in radian mode
+
 # TRIAREA
 incomplete (maybe?) triangle area calculator 
 choice between 4 different methods of solving for area
