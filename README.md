@@ -31,8 +31,13 @@ swaps coordinates between rectangular and polar systems
 must be in radian mode
 
 # TRIAREA
-incomplete (maybe?) triangle area calculator 
-choice between 4 different methods of solving for area
+triangle area calculator 
+choice between 4 different methods of solving for area:
+-Heron's formula
+-The one with sin(inside angle)
+-Default base * height
+-Triangle portion of a circle sector
+-a little bonus: just a circle sector area
 
 # TRIG
 my favorite and most comprehensive program to this day
